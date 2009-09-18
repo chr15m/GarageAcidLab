@@ -1,4 +1,4 @@
-#N canvas 377 124 450 300 10;
+#N canvas 245 187 450 300 10;
 #X obj 11 252 outlet~;
 #X obj 11 13 r choose-new-samples;
 #X obj 11 59 random;
@@ -13,12 +13,10 @@
 #X obj 11 229 tabread4~;
 #X obj 30 196 vline~;
 #X msg 30 175 0 \, 44100 1000;
-#X obj 168 157 print;
 #X connect 1 0 2 0;
 #X connect 2 0 3 0;
 #X connect 3 0 8 0;
 #X connect 4 0 11 0;
-#X connect 4 0 14 0;
 #X connect 5 0 2 1;
 #X connect 6 0 7 0;
 #X connect 7 0 8 1;
