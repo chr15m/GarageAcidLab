@@ -1,6 +1,6 @@
 #N canvas 666 330 450 324 10;
 #X obj 12 243 tabwrite \$1-loop;
-#X obj 12 178 random 255;
+#X obj 12 178 seededrandom 255;
 #X obj 12 200 / 255;
 #X obj 34 152 tabread \$1-prob;
 #X obj 12 37 t b 0;

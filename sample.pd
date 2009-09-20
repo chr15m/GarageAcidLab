@@ -1,7 +1,7 @@
 #N canvas 245 187 450 300 10;
 #X obj 11 252 outlet~;
 #X obj 11 13 r choose-new-samples;
-#X obj 11 59 random;
+#X obj 11 59 seededrandom;
 #X obj 11 79 + 1;
 #X msg 11 125 set \$2-\$1;
 #X obj 49 36 r \$1-samples;
