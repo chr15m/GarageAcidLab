@@ -939,7 +939,8 @@
      id="g3558"
      inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabPosition.png"
      inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90">
+     inkscape:export-ydpi="90"
+     transform="matrix(1.047619,0,0,1.047619,-7.0952366,7.7618901)">
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -950,7 +951,7 @@
        sodipodi:cy="-101"
        sodipodi:cx="-104"
        id="path5355"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:26.82352257;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:25.60427284;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:type="arc"
        transform="matrix(0.1491228,0,0,0.1491228,175.00877,-158.4386)" />
     <rect
