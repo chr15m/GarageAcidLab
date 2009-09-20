@@ -189,8 +189,7 @@
 #X obj 124 196 sliderthing 65;
 #X text 277 437 position = 22x22;
 #X text 685 206 todo: connect up NET;
-#X text 727 220 fix seededrandom number generator;
-#X text 727 235 change layout of tilt stuff;
+#X text 727 220 change layout of tilt stuff;
 #X connect 0 0 1 0;
 #X connect 1 0 17 0;
 #X connect 1 1 26 0;

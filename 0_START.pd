@@ -1,4 +1,4 @@
-#N canvas 627 119 450 300 10;
+#N canvas 627 119 434 327 10;
 #X declare -path rj;
 #X obj 25 47 bng 100 250 50 0 makenew empty kick_it 17 7 0 10 -258113
 -1 -1;
