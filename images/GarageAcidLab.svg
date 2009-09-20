@@ -26,9 +26,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.81875"
-     inkscape:cx="160"
-     inkscape:cy="-300"
+     inkscape:zoom="1"
+     inkscape:cx="303.5"
+     inkscape:cy="258.51653"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -563,78 +563,25 @@
      d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
      transform="matrix(9.6285583e-2,0,0,9.6285583e-2,160.88655,33.047857)" />
   <path
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="M 70.99748,139.55579 L 70.99748,206.86346 L 21.5,173.20963 L 70.99748,139.55579 z"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 64.99748,199.55579 L 64.99748,266.86346 L 15.5,233.20963 L 64.99748,199.55579 z"
      id="path4041"
      sodipodi:nodetypes="cccc"
      inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabLeftArrow.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <path
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="M 249.00253,206.86346 L 249.00253,139.5558 L 298.5,173.20963 L 249.00253,206.86346 z"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 255.00253,266.86346 L 255.00253,199.5558 L 304.5,233.20963 L 255.00253,266.86346 z"
      id="rect4035"
      sodipodi:nodetypes="cccc"
      inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabRightArrow.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <g
-     id="g4065"
-     transform="matrix(1.3915349,0,0,1.3915349,-101.77876,-5.4224599)"
-     style="stroke-width:2.87452366;stroke-miterlimit:4;stroke-dasharray:none"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabKnob.png"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90">
-    <path
-       transform="matrix(0.5785909,0,0,0.5785909,320.17345,105.43768)"
-       d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
-       sodipodi:ry="57"
-       sodipodi:rx="57"
-       sodipodi:cy="-101"
-       sodipodi:cx="-104"
-       id="path4059"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.96814531;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:type="arc" />
-    <path
-       transform="matrix(0.1070817,0,0,0.1070817,271.1365,36.295316)"
-       sodipodi:type="arc"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:26.84421021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4061"
-       sodipodi:cx="-104"
-       sodipodi:cy="-101"
-       sodipodi:rx="57"
-       sodipodi:ry="57"
-       d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z" />
-  </g>
-  <g
-     transform="matrix(1.3915349,0,0,1.3915349,-302.40669,-6.009762)"
-     id="g4075"
-     style="stroke-width:2.87452366;stroke-miterlimit:4;stroke-dasharray:none">
-    <path
-       sodipodi:type="arc"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.96814531;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4077"
-       sodipodi:cx="-104"
-       sodipodi:cy="-101"
-       sodipodi:rx="57"
-       sodipodi:ry="57"
-       d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
-       transform="matrix(0.5785909,0,0,0.5785909,320.17345,105.43768)" />
-    <path
-       d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
-       sodipodi:ry="57"
-       sodipodi:rx="57"
-       sodipodi:cy="-101"
-       sodipodi:cx="-104"
-       id="path4079"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:26.84421021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:type="arc"
-       transform="matrix(0.1070817,0,0,0.1070817,271.1365,36.295316)" />
-  </g>
-  <g
      transform="matrix(-1,0,0,1,680,0)"
      id="g4102"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLab.png"
+     inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/image.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90">
     <path
@@ -668,10 +615,10 @@
   </g>
   <path
      style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 520.98752,71.65757 C 507.4816,71.65757 496.52986,75.21674 496.52986,79.58966 C 496.52986,80.83377 497.42273,81.99928 499.00332,83.04725 L 499.00332,171.79798 L 441.08011,271.58707 C 439.67447,273.21602 438.67334,274.91635 438.14515,276.65326 L 437.75754,278.66864 C 437.72701,278.98428 437.70221,279.29346 437.70215,279.61162 C 437.70215,295.19017 474.58009,307.82697 520.00925,307.82696 C 565.43846,307.82696 602.29786,295.19016 602.29785,279.61162 C 602.29785,279.29346 602.29145,278.98428 602.26094,278.66864 L 542.01194,171.79798 L 542.01194,83.63892 C 544.20093,82.45251 545.46368,81.07117 545.46373,79.58966 C 545.46373,75.21674 534.49352,71.65757 520.98752,71.65757 z"
+     d="M 520.98752,63.65757 C 507.4816,63.65757 496.52986,67.21674 496.52986,71.58966 C 496.52986,72.83377 497.42273,73.99928 499.00332,75.04725 L 499.00332,163.79798 L 441.08011,263.58707 C 439.67447,265.21602 438.67334,266.91635 438.14515,268.65326 L 437.75754,270.66864 C 437.72701,270.98428 437.70221,271.29346 437.70215,271.61162 C 437.70215,287.19017 474.58009,299.82697 520.00925,299.82696 C 565.43846,299.82696 602.29786,287.19016 602.29785,271.61162 C 602.29785,271.29346 602.29145,270.98428 602.26094,270.66864 L 542.01194,163.79798 L 542.01194,75.63892 C 544.20093,74.45251 545.46368,73.07117 545.46373,71.58966 C 545.46373,67.21674 534.49352,63.65757 520.98752,63.65757 z"
      id="path4118"
      sodipodi:nodetypes="cscccccssscccsc"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLab.png"
+     inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/image.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <path
@@ -684,7 +631,7 @@
      sodipodi:ry="57"
      d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
      transform="matrix(0.1252239,0,0,0.1252239,540.23977,60.211177)"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLab.png"
+     inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/image.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <path
@@ -697,7 +644,7 @@
      style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:53.60740662;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      sodipodi:type="arc"
      transform="matrix(7.4616553e-2,0,0,7.4616553e-2,541.77387,18.884032)"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLab.png"
+     inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/image.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <path
@@ -710,7 +657,7 @@
      id="path4124"
      style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:41.54308319;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      sodipodi:type="arc"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLab.png"
+     inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/image.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
   <rect
@@ -799,22 +746,6 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <path
-     inkscape:export-ydpi="90"
-     inkscape:export-xdpi="90"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabLeftArrow.png"
-     sodipodi:nodetypes="cccc"
-     id="path5347"
-     d="M 70.99748,-139.58431 L 70.99748,-72.276628 L 21.5,-105.93046 L 70.99748,-139.58431 z"
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     inkscape:export-ydpi="90"
-     inkscape:export-xdpi="90"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabRightArrow.png"
-     sodipodi:nodetypes="cccc"
-     id="path5349"
-     d="M 249.00252,-72.276638 L 249.00252,-139.5843 L 298.49999,-105.93047 L 249.00252,-72.276638 z"
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
      transform="matrix(0.8051294,0,0,0.8051294,243.73345,-24.612399)"
      d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
      sodipodi:ry="57"
@@ -827,56 +758,210 @@
      inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabKnob.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
-  <path
-     transform="matrix(0.1490079,0,0,0.1490079,175.49682,-158.82641)"
-     sodipodi:type="arc"
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:26.84420967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path5355"
-     sodipodi:cx="-104"
-     sodipodi:cy="-101"
-     sodipodi:rx="57"
-     sodipodi:ry="57"
-     d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabKnobPosition.png"
+  <g
+     id="g3504"
+     transform="translate(-9.00252,0)">
+    <rect
+       ry="11"
+       y="14"
+       x="42"
+       height="161"
+       width="28"
+       id="rect2722"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       transform="matrix(0.1490079,0,0,0.1490079,71.49682,174.17359)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:26.84420967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3494"
+       sodipodi:cx="-104"
+       sodipodi:cy="-101"
+       sodipodi:rx="57"
+       sodipodi:ry="57"
+       d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
+       inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabKnobPosition.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     id="g3500"
+     transform="translate(11.00253,0)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3496"
+       width="28"
+       height="161"
+       x="248"
+       y="14"
+       ry="11" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabKnobPosition.png"
+       d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
+       sodipodi:ry="57"
+       sodipodi:rx="57"
+       sodipodi:cy="-101"
+       sodipodi:cx="-104"
+       id="path3498"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:26.84420967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       transform="matrix(0.1490079,0,0,0.1490079,277.49682,174.17359)" />
+  </g>
+  <g
+     id="g3531"
+     inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabBubbles.png"
      inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
-  <path
-     sodipodi:type="arc"
-     style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:31.94278335999999996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path5365"
-     sodipodi:cx="-104"
-     sodipodi:cy="-101"
-     sodipodi:rx="57"
-     sodipodi:ry="57"
-     d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
-     transform="matrix(0.1252239,0,0,0.1252239,380.23977,-79.788823)"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabBubbles.png"
+     inkscape:export-ydpi="90">
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabBubbles.png"
+       id="g3508">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:31.94278335999999996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5365"
+         sodipodi:cx="-104"
+         sodipodi:cy="-101"
+         sodipodi:rx="57"
+         sodipodi:ry="57"
+         d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
+         transform="matrix(0.1252239,0,0,0.1252239,380.23977,-79.788823)"
+         inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabBubbles.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
+         sodipodi:ry="57"
+         sodipodi:rx="57"
+         sodipodi:cy="-101"
+         sodipodi:cx="-104"
+         id="path5367"
+         style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:53.60740661999999901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc"
+         transform="matrix(7.4616553e-2,0,0,7.4616553e-2,381.77387,-121.11597)"
+         inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabBubbles.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         transform="matrix(9.6285583e-2,0,0,9.6285583e-2,360.88655,-106.95214)"
+         d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
+         sodipodi:ry="57"
+         sodipodi:rx="57"
+         sodipodi:cy="-101"
+         sodipodi:cx="-104"
+         id="path5369"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:41.54308318999999727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc"
+         inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabBubbles.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <rect
+       ry="0"
+       y="-143"
+       x="329"
+       height="66"
+       width="65"
+       id="rect3529"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g3540"
+     inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabSlider.png"
      inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
-  <path
-     d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
-     sodipodi:ry="57"
-     sodipodi:rx="57"
-     sodipodi:cy="-101"
-     sodipodi:cx="-104"
-     id="path5367"
-     style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:53.60740661999999901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     sodipodi:type="arc"
-     transform="matrix(7.4616553e-2,0,0,7.4616553e-2,381.77387,-121.11597)"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabBubbles.png"
+     inkscape:export-ydpi="90">
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabSlider.png"
+       ry="13.080746"
+       y="-220"
+       x="517"
+       height="162"
+       width="28"
+       id="rect3523"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="12.769231"
+       y="-222"
+       x="448"
+       height="166"
+       width="166"
+       id="rect3538"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g3546"
+     inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabRightArrow.png"
      inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
-  <path
-     transform="matrix(9.6285583e-2,0,0,9.6285583e-2,360.88655,-106.95214)"
-     d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
-     sodipodi:ry="57"
-     sodipodi:rx="57"
-     sodipodi:cy="-101"
-     sodipodi:cx="-104"
-     id="path5369"
-     style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:41.54308318999999727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     sodipodi:type="arc"
-     inkscape:export-filename="/home/chrism/mac/Desktop/GarageAcidLabBubbles.png"
+     inkscape:export-ydpi="90">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 244,-72.999999 L 244,-141 L 293,-107 L 244,-72.999999 z"
+       id="path5349"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabRightArrow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-143"
+       x="232"
+       height="72"
+       width="72"
+       id="rect3544"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:export-ydpi="90"
      inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
+     inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabLeftArrow.png"
+     id="g3550"
+     transform="matrix(-1,0,0,1,320,0)">
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabRightArrow.png"
+       sodipodi:nodetypes="cccc"
+       id="path3552"
+       d="M 244,-72.999999 L 244,-141 L 293,-107 L 244,-72.999999 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3554"
+       width="72"
+       height="72"
+       x="232"
+       y="-143" />
+  </g>
+  <g
+     id="g3558"
+     inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabPosition.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabPosition.png"
+       d="M -47,-101 A 57,57 0 1 1 -161,-101 A 57,57 0 1 1 -47,-101 z"
+       sodipodi:ry="57"
+       sodipodi:rx="57"
+       sodipodi:cy="-101"
+       sodipodi:cx="-104"
+       id="path5355"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:26.82352257;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       transform="matrix(0.1491228,0,0,0.1491228,175.00877,-158.4386)" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chrism/mac/Desktop/RjDj/scenes/GarageAcidLab.rj/images/GarageAcidLabPosition.png"
+       y="-184"
+       x="149"
+       height="21"
+       width="21"
+       id="rect3556"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
 </svg>

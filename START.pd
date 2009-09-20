@@ -3,9 +3,9 @@
 #X obj 25 47 bng 100 250 50 0 makenew empty kick_it 17 7 0 10 -258113
 -1 -1;
 #X obj 163 54 nbx 5 14 0 127 0 0 cutoff empty cutoff 0 -8 0 10 -260097
--1 -1 75 256;
+-1 -1 0 256;
 #X obj 163 84 nbx 5 14 0 127 0 0 rez empty rez 0 -8 0 10 -260097 -1
--1 8 256;
+-1 0 256;
 #X obj 240 84 nbx 5 14 0 127 0 0 feedback empty feedback 0 -8 0 10
 -4160 -262144 -1 0 256;
 #X obj 239 54 nbx 5 14 0 127 0 0 delay empty delay 0 -8 0 10 -4160
@@ -18,7 +18,7 @@
 #X obj 379 41 core;
 #X obj 379 224 dac~;
 #X obj 379 18 adc~;
-#N canvas 271 234 450 300 v 1;
+#N canvas 271 234 450 300 v 0;
 #X obj 10 10 inlet~;
 #X obj 388 8 inlet~;
 #X obj 10 280 outlet~;
