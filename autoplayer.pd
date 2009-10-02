@@ -1,16 +1,16 @@
-#N canvas 59 214 590 539 10;
+#N canvas 68 172 590 539 10;
 #X declare -path rj;
 #X obj 16 207 bng 100 250 50 0 makenew empty kick_it 17 7 0 10 -258113
 -1 -1;
 #X obj 154 231 nbx 5 14 0 127 0 0 cutoff empty cutoff 0 -8 0 10 -260097
--1 -1 119.514 256;
+-1 -1 74.0478 256;
 #X obj 154 261 nbx 5 14 0 127 0 0 rez empty rez 0 -8 0 10 -260097 -1
--1 48 256;
+-1 0 256;
 #X obj 231 261 nbx 5 14 0 127 0 0 feedback empty feedback 0 -8 0 10
--4160 -262144 -1 38 256;
+-4160 -262144 -1 0 256;
 #X obj 230 231 nbx 5 14 0 127 0 0 delay empty delay 0 -8 0 10 -4160
--262144 -1 64 256;
-#X obj 153 294 tgl 15 0 beat empty beat 17 7 0 10 -4034 -1 -1 1 1;
+-262144 -1 0 256;
+#X obj 153 294 tgl 15 0 beat empty beat 17 7 0 10 -4034 -1 -1 0 1;
 #X msg 95 353 \; backforward -1 \;;
 #X msg 215 353 \; backforward 1 \;;
 #X obj 233 294 tgl 15 0 distortion empty distortion 17 7 0 10 -258113
@@ -24,7 +24,7 @@
 #X obj 10 280 outlet~;
 #X obj 388 277 outlet~;
 #X obj 107 119 vsl 16 128 0 127 0 0 empty empty empty 0 -9 0 10 -191407
--1 -1 1700 1;
+-1 -1 4100 1;
 #X obj 388 158 *~;
 #X obj 107 258 / 127;
 #X obj 10 153 *~;
@@ -120,13 +120,13 @@
 #X obj 51 99 t b b b;
 #X text 218 101 31744;
 #X obj 165 130 delay 31744;
+#X obj 165 83 r picknotes;
+#X obj 219 59 r resetdelay;
+#X obj 361 29 joystiqBroker;
 #X connect 9 0 12 0;
 #X connect 9 1 12 1;
-#X connect 11 0 9 0;
-#X connect 11 1 9 0;
 #X connect 12 0 10 0;
 #X connect 12 1 10 1;
-#X connect 13 0 1 0;
 #X connect 14 0 22 0;
 #X connect 16 0 26 0;
 #X connect 22 0 27 0;
@@ -137,5 +137,6 @@
 #X connect 27 0 0 0;
 #X connect 27 0 13 0;
 #X connect 27 1 25 0;
-#X connect 27 2 29 0;
 #X connect 29 0 24 0;
+#X connect 30 0 29 0;
+#X connect 31 0 29 0;
