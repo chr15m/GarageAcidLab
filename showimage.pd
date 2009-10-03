@@ -10,8 +10,11 @@
 #X obj 189 172 t b a;
 #X obj 72 295 outlet;
 #X obj 119 114 0;
-#X obj 9 74 loadbang;
-#X obj 9 99 \$4;
+#X obj 9 67 loadbang;
+#X obj 9 110 \$4;
+#X obj 11 166 \$5;
+#X msg 11 187 ref \$1;
+#X obj 9 86 t b b;
 #X connect 0 0 9 0;
 #X connect 1 0 2 0;
 #X connect 2 0 0 0;
@@ -24,5 +27,9 @@
 #X connect 8 0 3 0;
 #X connect 8 1 3 1;
 #X connect 10 0 2 0;
-#X connect 11 0 12 0;
+#X connect 11 0 15 0;
 #X connect 12 0 2 0;
+#X connect 13 0 14 0;
+#X connect 14 0 9 0;
+#X connect 15 0 12 0;
+#X connect 15 1 13 0;
