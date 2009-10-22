@@ -1,0 +1,12 @@
+#N canvas 493 239 449 169 10;
+#X obj 8 119 lanclient;
+#X obj 315 117 r FROM-SERVER;
+#X msg 101 119 \; TO-SERVER this is my test \; TO-SERVER oh yeah \;
+;
+#X obj 315 139 print FROM-SERVER;
+#X text 5 2 lanclient.pd provides a quick way to create local area
+network multiplayer patches. Start main.py and then wait for clients
+to connect. Sending to TO-SERVER will result in the data going to all
+connected clients and can be received at FROM-SERVER. All received
+data will be prefixed with ID (ip address).;
+#X connect 1 0 3 0;

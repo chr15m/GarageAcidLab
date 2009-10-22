@@ -2,7 +2,7 @@
 #X obj 8 8 r \$1;
 #X obj 8 29 list prepend \$1;
 #X obj 8 50 list trim;
-#X obj 8 71 s NET;
+#X obj 8 71 s TO-SERVER;
 #X connect 0 0 1 0;
 #X connect 1 0 2 0;
 #X connect 2 0 3 0;
