@@ -1,7 +1,7 @@
 #N canvas 365 33 450 300 10;
 #N canvas 0 22 450 300 (subpatch) 0;
 #X array \$1-loop 16 float 3;
-#A 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+#A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
 #X coords 0 1 15 -1 50 25 1;
 #X restore 68 68 graph;
 #X obj 11 120 sel 1;

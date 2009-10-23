@@ -1,0 +1,11 @@
+#N canvas 92 43 450 300 10;
+#X obj 10 57 pack f s;
+#X obj 10 34 t f b;
+#X obj 65 34 symbol \$1;
+#X obj 10 8 inlet;
+#X obj 10 80 outlet;
+#X connect 0 0 4 0;
+#X connect 1 0 0 0;
+#X connect 1 1 2 0;
+#X connect 2 0 0 1;
+#X connect 3 0 1 0;

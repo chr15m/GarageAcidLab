@@ -11,7 +11,7 @@
 #X obj 12 127 t b f f;
 #X obj 12 85 until;
 #X obj 12 63 16;
-#X obj 56 37 r loop-length;
+#X obj 56 37 r \$2/loop-length;
 #X connect 1 0 2 0;
 #X connect 2 0 8 0;
 #X connect 3 0 8 1;

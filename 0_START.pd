@@ -1,30 +1,30 @@
-#N canvas 627 119 434 327 10;
+#N canvas 627 119 516 325 10;
 #X declare -path rj;
 #X obj 25 47 bng 100 250 50 0 makenew empty kick_it 17 7 0 10 -258113
 -1 -1;
 #X obj 163 54 nbx 5 14 0 127 0 0 cutoff empty cutoff 0 -8 0 10 -260097
--1 -1 66 256;
+-1 -1 0 256;
 #X obj 163 84 nbx 5 14 0 127 0 0 rez empty rez 0 -8 0 10 -260097 -1
 -1 0 256;
 #X obj 240 84 nbx 5 14 0 127 0 0 feedback empty feedback 0 -8 0 10
--4160 -262144 -1 33 256;
+-4160 -262144 -1 0 256;
 #X obj 239 54 nbx 5 14 0 127 0 0 delay empty delay 0 -8 0 10 -4160
--262144 -1 71 256;
-#X obj 162 134 tgl 15 0 beat empty beat 17 7 0 10 -4034 -1 -1 1 1;
+-262144 -1 0 256;
+#X obj 162 134 tgl 15 0 beat empty beat 17 7 0 10 -4034 -1 -1 0 1;
 #X msg 104 193 \; backforward -1 \;;
 #X msg 224 193 \; backforward 1 \;;
 #X obj 242 134 tgl 15 0 distortion empty distortion 17 7 0 10 -258113
 -1 -1 0 1;
-#X obj 379 41 core;
-#X obj 379 224 dac~;
-#X obj 379 18 adc~;
+#X obj 443 41 core;
+#X obj 443 224 dac~;
+#X obj 443 18 adc~;
 #N canvas 271 234 450 300 v 0;
 #X obj 10 10 inlet~;
 #X obj 388 8 inlet~;
 #X obj 10 280 outlet~;
 #X obj 388 277 outlet~;
 #X obj 107 119 vsl 16 128 0 127 0 0 empty empty empty 0 -9 0 10 -191407
--1 -1 8000 1;
+-1 -1 0 1;
 #X obj 388 158 *~;
 #X obj 107 258 / 127;
 #X obj 10 153 *~;
@@ -36,7 +36,7 @@
 #X connect 6 0 7 1;
 #X connect 7 0 2 0;
 #X coords 0 -1 1 1 30 155 1 100 100;
-#X restore 379 64 pd v;
+#X restore 443 64 pd v;
 #X msg 100 250 \; settime 15 \;;
 #X msg 221 243 \; picksamples bang \; pickbeat bang \;;
 #X connect 9 0 12 0;
