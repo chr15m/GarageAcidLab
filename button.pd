@@ -1,0 +1,6 @@
+#N canvas 410 135 450 300 10;
+#X obj 12 55 ctlin \$1;
+#X obj 12 109 outlet;
+#X obj 78 55 r button/\$1;
+#X connect 0 0 1 0;
+#X connect 2 0 1 0;

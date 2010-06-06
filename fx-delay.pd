@@ -1,0 +1,12 @@
+#N canvas 0 0 450 300 10;
+#X obj 204 17 inlet;
+#X obj 338 19 inlet;
+#X obj 24 9 inlet~;
+#X obj 25 258 outlet~;
+#X obj 25 116 s-delayunit~ \$0;
+#X obj 204 41 s \$0/length;
+#X obj 338 41 s \$0/feedback;
+#X connect 0 0 5 0;
+#X connect 1 0 6 0;
+#X connect 2 0 4 0;
+#X connect 4 0 3 0;
