@@ -120,10 +120,10 @@
 #X text 187 7 fx:;
 #X text 195 22 wet/dry balance \, acid/drums balance \, effect-select
 \, fx1 \, fx2;
-#X obj 791 331 controller 28 \$1/fx-two \$2;
-#X obj 791 356 controller 20 \$1/fx-one \$2;
-#X obj 791 382 controller 12 \$1/fx-channel \$2;
-#X obj 791 407 controller 4 \$1/fx-select \$2;
+#X obj 791 407 controller 4 \$1/fx-select 256 \$2;
+#X obj 791 382 controller 12 \$1/fx-channel 96 \$2;
+#X obj 791 356 controller 20 \$1/fx-one 128 \$2;
+#X obj 791 331 controller 28 \$1/fx-two 128 \$2;
 #X connect 0 0 5 0;
 #X connect 6 0 11 0;
 #X connect 7 0 10 0;

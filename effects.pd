@@ -6,10 +6,13 @@
 #X obj 230 144 s-midirange 8;
 #X floatatom 244 191 5 0 0 0 - - -;
 #X obj 12 224 fx fx-delay 1 \$1;
+#X obj 12 255 fx fx-tuned-delay 2 \$1;
 #X connect 1 0 4 0;
 #X connect 2 0 3 0;
 #X connect 3 0 6 0;
 #X connect 4 0 3 1;
 #X connect 4 0 5 0;
 #X connect 4 0 6 1;
-#X connect 6 0 0 0;
+#X connect 4 0 7 1;
+#X connect 6 0 7 0;
+#X connect 7 0 0 0;
