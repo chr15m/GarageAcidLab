@@ -1,4 +1,4 @@
-#N canvas 98 26 1138 676 10;
+#N canvas 106 26 1138 676 10;
 #X declare -path rj;
 #X declare -path rj;
 #X obj 779 641 dac~;
@@ -36438,7 +36438,7 @@ acid2/pickoctave bang \; acid2/pickslide bang \; acid2/pickwave bang
 #X obj 941 196 spigot 1;
 #X text 743 70 if there is a midi clock present;
 #X obj 781 455 complete-instrument acid2 1;
-#X msg 571 523 open /tmp/foo3.wav;
+#X msg 571 523 open /tmp/foo2.wav;
 #X connect 1 0 0 0;
 #X connect 1 0 26 0;
 #X connect 1 1 0 1;

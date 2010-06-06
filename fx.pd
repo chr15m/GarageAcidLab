@@ -1,7 +1,7 @@
 #N canvas 176 398 421 219 10;
 #X obj 9 9 inlet~;
 #X obj 9 199 outlet~;
-#N canvas 0 0 450 300 switcheroo 0;
+#N canvas 0 0 450 300 switcheroo 1;
 #X obj 312 8 inlet;
 #X obj 312 30 switch~;
 #X obj 12 8 inlet~;
