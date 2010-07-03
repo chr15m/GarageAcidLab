@@ -36430,9 +36430,6 @@
 #X msg 873 131 0;
 #X obj 941 196 spigot 1;
 #X text 743 70 if there is a midi clock present;
-#X obj 781 455 complete-instrument acid2 1;
-#X obj 581 456 complete-instrument acid1 0;
-#X msg 66 529 \; acid1/surround 1 \; acid2/surround 1 \;;
 #X msg 194 531 \; acid1/surround 0 \; acid2/surround 0 \;;
 #X msg 182 30 \; acid1/picksequence bang \; acid1/pickoctave bang \;
 acid1/pickslide bang \; acid1/pickdecay bang \; acid1/pickwave bang
@@ -36443,6 +36440,10 @@ acid2/pickoctave bang \; acid2/pickslide bang \; acid2/pickwave bang
 #X msg 134 470 \; acid1/stereophase bang \; acid2/stereophase bang
 \;;
 #X msg 571 523 open /tmp/foo5.wav;
+#X obj 581 456 complete-instrument acid1 0;
+#X obj 935 510 osc~ 440;
+#X msg 66 529 \; acid1/surround 127 \; acid2/surround 127 \;;
+#X obj 781 455 complete-instrument acid2 1;
 #X connect 1 0 0 0;
 #X connect 1 0 26 0;
 #X connect 1 1 0 1;
@@ -36468,9 +36469,9 @@ acid2/pickoctave bang \; acid2/pickslide bang \; acid2/pickwave bang
 #X connect 34 1 35 0;
 #X connect 42 0 41 0;
 #X connect 43 0 13 0;
-#X connect 44 0 64 0;
+#X connect 44 0 61 0;
 #X connect 45 0 14 0;
-#X connect 46 0 65 0;
+#X connect 46 0 62 0;
 #X connect 47 0 18 0;
 #X connect 48 0 23 0;
 #X connect 49 0 20 0;
@@ -36480,8 +36481,8 @@ acid2/pickoctave bang \; acid2/pickslide bang \; acid2/pickwave bang
 #X connect 55 0 52 1;
 #X connect 57 0 58 1;
 #X connect 58 0 8 0;
-#X connect 60 0 1 0;
-#X connect 60 1 1 1;
-#X connect 61 0 1 0;
-#X connect 61 1 1 1;
-#X connect 67 0 26 0;
+#X connect 64 0 26 0;
+#X connect 65 0 1 0;
+#X connect 65 1 1 1;
+#X connect 68 0 1 0;
+#X connect 68 1 1 1;
