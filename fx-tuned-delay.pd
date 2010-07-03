@@ -1,10 +1,10 @@
-#N canvas 42 111 450 324 10;
+#N canvas 449 98 450 324 10;
 #X obj 204 17 inlet;
 #X obj 338 19 inlet;
 #X obj 24 9 inlet~;
 #X obj 25 258 outlet~;
 #X obj 25 116 s-delayunit~ \$0;
-#X obj 204 285 s \$0/length;
+#X obj 204 286 s \$0/length;
 #X obj 338 41 s \$0/feedback;
 #X obj 323 116 r \$1/goodnotes;
 #X obj 249 166 list;
@@ -19,6 +19,8 @@
 #X obj 231 123 t b f;
 #X obj 204 38 s-midirange 40;
 #X obj 249 237 - 4;
+#X obj 324 148 r \$1/rootnote;
+#X obj 204 204 +;
 #X connect 0 0 18 0;
 #X connect 1 0 6 0;
 #X connect 2 0 4 0;
@@ -31,10 +33,12 @@
 #X connect 11 0 17 0;
 #X connect 12 1 16 0;
 #X connect 13 0 14 0;
-#X connect 14 0 15 0;
+#X connect 14 0 21 0;
 #X connect 15 0 5 0;
 #X connect 16 0 19 0;
 #X connect 17 0 8 0;
 #X connect 17 1 12 1;
 #X connect 18 0 9 0;
 #X connect 19 0 15 1;
+#X connect 20 0 21 1;
+#X connect 21 0 15 0;
