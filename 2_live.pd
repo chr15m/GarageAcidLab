@@ -45961,6 +45961,8 @@ acid2/pickoctave bang \; acid2/pickslide bang \; acid2/pickwave bang
 #X msg 571 523 open /tmp/foo2.wav;
 #X obj 66 524 loadbang;
 #X obj 172 457 loadbang;
+#X obj 393 419 c_patternchange;
+#X obj 393 391 c_patternchange-help;
 #X connect 1 0 0 0;
 #X connect 1 0 26 0;
 #X connect 1 1 0 1;
