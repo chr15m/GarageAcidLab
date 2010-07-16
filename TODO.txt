@@ -1,0 +1,9 @@
+* beat-timed delay fx
+* ring mod effect (tuned?)
+* distortion effect
+
+* solo instrument? (touch)
+
+Next tune:
+	* have some devilfish style squeaky acid with slow filter-opens in there
+
