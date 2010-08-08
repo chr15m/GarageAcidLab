@@ -86,7 +86,7 @@
 #X obj 791 356 controller 20 \$1/fx-one 128 \$2;
 #X obj 791 331 controller 28 \$1/fx-two 128 \$2;
 #X obj 9 390 controller 9 \$1/fx-channel 0 \$2;
-#N canvas 0 22 1200 711 autocompress 0;
+#N canvas 0 22 684 471 autocompress 1;
 #X obj 239 212 e_platereverb;
 #N canvas 226 292 450 120 initverb 0;
 #X msg 11 38 predelay 0 \, bandwidth 22050 \, damping 22050 \, decay

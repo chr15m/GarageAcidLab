@@ -1,0 +1,14 @@
+#N canvas 429 217 450 300 10;
+#X obj 6 6 hsl 128 15 0 127 0 0 \$0/value empty empty -2 -8 0 10 -260097
+-1 -1 1600 1;
+#X obj 140 6 tgl 15 0 empty empty learn 17 7 0 10 -191407 -1 -1 0 1
+;
+#X obj 393 8 ctlin;
+#X obj 14 171 r \$0/value;
+#X obj 14 266 s ctlin;
+#X obj 14 245 pack f \$1 1;
+#X obj 216 0 r MIDISAVE;
+#X obj 216 30 s MIDIDATA;
+#X connect 3 0 5 0;
+#X connect 5 0 4 0;
+#X coords 0 -1 1 1 190 25 2 0 0;

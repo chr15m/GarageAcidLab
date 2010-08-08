@@ -1,9 +1,14 @@
+* put hats/bass+snare mix on a single knob
+* make pitch knob instead do - inversion of notes, reverse of sequence, for 5th, 3rd, 7th
+* beat shift = slow/speed beat at the end
+
 * beat-timed delay fx
 * ring mod effect (tuned?)
-* distortion effect
+* distortion effect (foldover?)
 
 * solo instrument? (touch)
 
 Next tune:
 	* have some devilfish style squeaky acid with slow filter-opens in there
+	* start with the beat?
 

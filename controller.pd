@@ -12,7 +12,7 @@
 [left-or-right 0-or-1];
 #X obj 13 244 s-tr-node tune \$2;
 #X obj 43 112 mod 2;
-#X obj 13 199 s-midictl \$1 xxx-dont-use-me;
+#X obj 13 199 midictl \$1 xxx-dont-use-me;
 #X obj 13 219 s-midimemory \$3 time 127 \$1;
 #X connect 2 0 3 0;
 #X connect 3 0 6 0;

@@ -1,0 +1,10 @@
+#N canvas 413 154 450 300 10;
+#X obj 5 82 s button/\$1;
+#X obj 33 5 tgl 15 0 empty empty learn 17 7 0 10 -191407 -1 -1 0 1
+;
+#X obj 5 5 bng 15 250 50 0 \$0/shot empty empty 17 7 0 10 -258113 -1
+-1;
+#X obj 5 54 r \$0/shot;
+#X obj 133 7 ctlin \$1;
+#X connect 3 0 0 0;
+#X coords 0 -1 1 1 85 25 2 0 0;
