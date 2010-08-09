@@ -13,3 +13,5 @@ done
 
 bzr commit -m 'version bump'
 bzr export GarageAcidLab-v$revnoplus.zip
+
+rsync -avz . mccormick.cx:~/projects/GarageAcidLab/
