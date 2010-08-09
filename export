@@ -1,0 +1,15 @@
+#!/bin/bash
+
+revno=`bzr revno`
+revnoplus=`expr $revno + 1`
+
+# search and replace version strings
+
+for f in index.html 0_START.pd
+do
+	perl -pe "s{v\d+}{v$revnoplus}g" < $f > new-$f
+	mv new-$f $f
+done
+
+bzr commit -m 'version bump'
+bzr export GarageAcidLab-v$revnoplus.zip
