@@ -4,6 +4,7 @@ revno=`bzr revno`
 revnoplus=`expr $revno + 1`
 
 # search and replace version strings
+echo "version bump to v$revnoplus"
 
 for f in index.html 0_START.pd
 do
@@ -11,7 +12,11 @@ do
 	mv new-$f $f
 done
 
+echo "committing.."
 bzr commit -m 'version bump'
+
+echo "bzr exporting"
 bzr export GarageAcidLab-v$revnoplus.zip
 
-rsync -avz . mccormick.cx:~/projects/GarageAcidLab/
+echo "rsyncing..."
+rsync -avz . mccormick.cx:~/mccormick.cx/projects/GarageAcidLab/
