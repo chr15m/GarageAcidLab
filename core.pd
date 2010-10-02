@@ -1,5 +1,6 @@
 #N canvas 144 32 1028 683 10;
 #X declare -path rj;
+#X declare -path .;
 #X text 5 87 shake for a new loop;
 #X text 4 20 acid through a filter and then delay unit;
 #X text 4 3 Garage Acid Lab \, copyright 2009 Chris McCormick;
@@ -1038,6 +1039,7 @@ else lowest;
 #X obj 8 89 sssad/auto \$1/notes \$1/notes;
 #X obj 8 109 sssad/auto \$1/rootnote \$1/rootnote;
 #X restore 265 116 pd tablesave;
+#X obj 910 48 declare -path .;
 #X connect 12 0 36 0;
 #X connect 14 0 36 0;
 #X connect 17 0 49 0;

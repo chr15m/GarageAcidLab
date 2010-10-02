@@ -1,3 +1,5 @@
+* button.pd is a nameclash
+
 * put hats/bass+snare mix on a single knob
 * make pitch knob instead do - inversion of notes, reverse of sequence, for 5th, 3rd, 7th
 * beat shift = slow/speed beat at the end
