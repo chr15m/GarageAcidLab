@@ -1,6 +1,8 @@
 #N canvas 7 18 982 697 10;
 #X declare -path rj;
+#X declare -path .;
 #X declare -path rj;
+#X declare -path .;
 #X obj 480 653 2_live;
 #X text 26 7 GarageAcidLab (c) Chris McCormick \, 2010 onward!;
 #X text 26 81 These patches are GPLv unless otherwise noted.;
