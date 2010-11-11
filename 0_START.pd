@@ -159,7 +159,7 @@
 #X obj 658 136 midibutton 45;
 #X obj 752 136 midibutton 46;
 #X obj 848 136 miditoggle 49;
-#X text 26 44 v45 - get the latest version from: http://mccormick.cx/projects/GarageAcidLab/
+#X text 26 44 v48 - get the latest version from: http://mccormick.cx/projects/GarageAcidLab/
 ;
 #X obj 20 438 midiknob 26;
 #X text 20 420 key mutate;
