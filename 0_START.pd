@@ -1,8 +1,9 @@
-#N canvas 7 18 982 697 10;
+#N canvas 6 62 982 680 10;
 #X declare -path rj;
 #X declare -path .;
 #X declare -path rj;
 #X declare -path .;
+#X declare -path ./s-abstractions/trunk/;
 #X obj 480 653 2_live;
 #X text 26 7 GarageAcidLab (c) Chris McCormick \, 2010 onward!;
 #X text 26 81 These patches are GPLv unless otherwise noted.;
@@ -165,3 +166,4 @@
 #X text 20 420 key mutate;
 #X text 540 420 key mutate;
 #X obj 540 438 midiknob 30;
+#X obj 359 10 declare -path ./s-abstractions/trunk/;

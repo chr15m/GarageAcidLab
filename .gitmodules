@@ -1,0 +1,3 @@
+[submodule "s-abstractions"]
+	path = s-abstractions
+	url = git@github.com:chr15m/s-abstractions.git
