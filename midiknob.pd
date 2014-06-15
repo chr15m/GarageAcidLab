@@ -1,4 +1,4 @@
-#N canvas 429 217 450 300 10;
+#N canvas 424 192 450 300 10;
 #X obj 6 6 hsl 128 15 0 127 0 0 \$0/value \$1-GAL_midi/value empty
 -2 -8 0 10 -260097 -1 -1 0 1;
 #X obj 140 6 tgl 15 0 \$0/learn \$1-GAL_midi/learn learn 17 7 0 10
@@ -26,6 +26,7 @@
 #X obj 15 38 r GAL_MIDILOAD;
 #X obj 217 113 r GAL_MIDISAVE;
 #X obj 217 206 s GAL_MIDIDATA;
+#X obj 206 31 r MIDIKNOB/\$1;
 #X connect 2 0 6 0;
 #X connect 2 1 7 0;
 #X connect 2 1 11 0;
@@ -56,4 +57,5 @@
 #X connect 19 1 14 1;
 #X connect 22 0 18 0;
 #X connect 23 0 15 0;
+#X connect 25 0 20 0;
 #X coords 0 -1 1 1 190 25 2 0 0;

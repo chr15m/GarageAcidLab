@@ -1,4 +1,4 @@
-#N canvas 413 154 450 300 10;
+#N canvas 412 149 450 300 10;
 #X obj 3 273 s button/\$1;
 #X obj 33 5 tgl 15 0 \$0/learn \$1-GAL_midi/learn learn 17 7 0 10 -191407
 -1 -1 0 1;
@@ -26,6 +26,7 @@
 #X obj 139 256 s \$1-GAL_midi/value;
 #X obj 217 210 list prepend \$1/GAL_midibtn;
 #X obj 15 84 route \$1/GAL_midibtn;
+#X obj 232 18 r MIDIBUTTON/\$1;
 #X connect 3 0 0 0;
 #X connect 4 0 5 0;
 #X connect 4 1 6 0;
@@ -60,4 +61,5 @@
 #X connect 21 2 7 0;
 #X connect 23 0 20 0;
 #X connect 24 0 16 0;
+#X connect 25 0 22 0;
 #X coords 0 -1 1 1 85 25 2 0 0;

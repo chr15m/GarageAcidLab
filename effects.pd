@@ -1,9 +1,9 @@
-#N canvas 610 98 634 623 10;
+#N canvas 609 93 634 623 10;
 #X obj 11 589 outlet~;
 #X obj 430 13 r \$1/fx-select;
 #X obj 11 14 inlet~;
 #X obj 430 34 s-midirange 8;
-#X floatatom 444 81 5 0 0 0 - - -;
+#X floatatom 445 81 5 0 0 0 - - -, f 5;
 #X obj 12 226 fx fx-bitcrushcrunch 3 \$1;
 #X obj 12 180 fx fx-tuned-delay 2 \$1;
 #X obj 12 89 fx fx-passthrough 0 \$1;
@@ -11,6 +11,7 @@
 #X obj 12 270 fx fx-acidclipper 4 \$1;
 #X obj 12 314 fx fx-microrepeater 5 \$1;
 #X obj 12 359 fx fx-spooky 6 \$1;
+#X obj 12 399 fx fx-filter 7 \$1;
 #X connect 1 0 3 0;
 #X connect 2 0 7 0;
 #X connect 3 0 4 0;
@@ -21,10 +22,12 @@
 #X connect 3 0 9 1;
 #X connect 3 0 10 1;
 #X connect 3 0 11 1;
+#X connect 3 0 12 1;
 #X connect 5 0 9 0;
 #X connect 6 0 5 0;
 #X connect 7 0 8 0;
 #X connect 8 0 6 0;
 #X connect 9 0 10 0;
 #X connect 10 0 11 0;
-#X connect 11 0 0 0;
+#X connect 11 0 12 0;
+#X connect 12 0 0 0;
